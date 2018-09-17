@@ -1,6 +1,7 @@
+    //!achtergrond//
     body {
-      animation: colorchange 5s infinite;
-      -webkit-animation: colorchange 5s infinite;
+      animation: colorchange 3s infinite;
+      -webkit-animation: colorchange 3s infinite;
     }
 
     @keyframes colorchange
